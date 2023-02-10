@@ -47,11 +47,6 @@ while($i<=15){
   }
 }
 
-
-
-
-
-
 ?>
 <!doctype html>
 <html lang="en">
